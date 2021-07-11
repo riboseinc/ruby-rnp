@@ -1,0 +1,6 @@
+---
+items:
+  - { title: Quick start, path: quickstart/ }
+---
+
+= Navigation
